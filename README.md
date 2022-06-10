@@ -1,5 +1,16 @@
+### 👋 Hi there!
+<p>
+  <a href="https://lnara.notion.site/e44926454fd5445398ee455c50d08b58?v=801fced6c82e446ab1e24b00eedbfffc" target="_blank">
+    <img src="https://img.shields.io/badge/Tech_Note-DD0B78?style=flat-square&logo=Notion&logoColor=white"/>
+  </a>
+   <a href="mailto:naas0974@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/naas0974@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
+</p>
+<br>
+
 ### 💪 Skills
-#### Hard Skills
+#### Hard Skills & Tools
 <p>
   <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white"/>
   <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat-square&logo=CSS3&logoColor=white"/>
@@ -8,8 +19,6 @@
   <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=flat-square&logo=React&logoColor=white"/>
   <img alt="jQuery" src ="https://img.shields.io/badge/jQuery-0769AD.svg?&style=flat-squaree&logo=jQuery&logoColor=white"/>
 </p>
-
-#### Tools
 <p>
   <img alt="Jira" src ="https://img.shields.io/badge/Jira-0052CC.svg?&style=flat-square&logo=Jira&logoColor=white"/>
   <img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white"/>
