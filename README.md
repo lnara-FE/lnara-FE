@@ -7,7 +7,6 @@
     <img src="https://img.shields.io/badge/naas0974@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
 </p>
-<br>
 
 ### 💪 Skills
 #### Hard Skills & Tools
